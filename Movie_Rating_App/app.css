@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+table, th, td {
+    width: 30%;
+    border-collapse: collapse;
+    height: 25px;
+    text-align: center;
+    border: 1px solid black;
+    margin: auto;
+}
+
+div {
+    margin: auto;
+    width: auto;
+}
